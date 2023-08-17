@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @JessicaFaulk
-- 👀 I’m interested data ethics.
-- 🌱 Oh look, a plant.
+- 👀 I’m interested data science and AI ethics.
 - 📫 How to reach me: Jessica.L.Faulk@gmail.com
 
 Disclaimer: all data used on this hub is dummy only.
