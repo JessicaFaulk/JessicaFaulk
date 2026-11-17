@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JessicaFaulk
 - 👀 I’m interested data science and AI ethics.
-- 8 Years of experience in viz and analytics.
+- 10 Years of experience in viz and analytics.
 - Speciality in medical billing and health analytics
 - 📫 How to reach me: Jessica.L.Faulk@gmail.com
 
